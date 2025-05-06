@@ -1,6 +1,11 @@
 # currency_calculate
 
-A new Flutter project.
+My First Flutter project.
+
+
+This flutter project is a project in which I make an APP that converts
+-- USD to INR -- basically helps in converting currencies .
+But i have not used any API's , so that it can't access real time currency values.
 
 ## Getting Started
 
